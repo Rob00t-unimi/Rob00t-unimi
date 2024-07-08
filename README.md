@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I am passionate about both the theoretical aspects and practical applications of computer science. Recently, I successfully completed a significant internship with the project SonicWalk that allowed me to apply my skills in real-world scenarios.</p>
+<p align="left">I am passionate about both the theoretical aspects and practical applications of computer science. Recently, I successfully completed a significant internship with the project [SonicWalk](https://github.com/Rob00t-unimi/SonicWalk) that allowed me to apply my skills in real-world scenarios.</p>
 
 ###
 
