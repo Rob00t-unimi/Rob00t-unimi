@@ -1,4 +1,4 @@
-<h2 align="center">Hi, my name is Roberto and I'm currently pursuing a degree in Computer Science for Digital Communication with a Multimedia program at the University of Milan in Italy.</h2>
+<h2 align="center">Hi, my name is Roberto and I'm currently pursuing a degree in Computer Science for New Media Communication with a Multimedia program at the University of Milan in Italy.</h2>
 
 ###
 
