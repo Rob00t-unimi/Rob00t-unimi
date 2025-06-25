@@ -17,16 +17,17 @@
 ###
 
 <p align="left">
-  I'm a computer science graduate specialized in digital communication, now pursuing a master's degree in Computer Science at the University of Milan.
-  My academic and professional journey is rooted in the intersection of <strong>artificial intelligence</strong>, <strong>image processing</strong>, <strong>computer vision</strong> and <strong>natural language processing</strong>.
+  I'm currently pursuing a Master's degree in Computer Science at the University of Milan, after completing a Bachelor's in Computer Science for New Media Communications – Multimedia Curriculum.
+My interests lie at the intersection of image processing, vision and multimedia systems, computer vision, artificial intelligence, human-computer interaction, and Python programming.
 </p>
 
 <p align="left">
-  During my bachelor's thesis, I contributed to <a href="https://github.com/Rob00t-unimi/SonicWalk" target="_blank">SonicWalk</a>, a rehabilitation and music therapy research project. I developed a medical-grade software that analyzes and sonifies patients’ inertial leg signals in real-time — combining engineering, healthcare, and creativity.
+  During my bachelor's thesis, I contributed to <a href="https://github.com/Rob00t-unimi/SonicWalk" target="_blank">SonicWalk</a>, a rehabilitation and music therapy research project. I developed an experimental medical software tool that analyzes and sonifies lower-limb inertial data in real time, providing innovative auditory feedback for both patients and therapists.
+
 </p>
 
 <p align="left">
-  Currently, I’m focusing on advanced Python programming, VR interfaces, real-time signal processing, and experimental applications of AI in multimedia contexts.
+  Currently, I’m focusing to improve my skills and knowledge about the world of AI, Software Engineering and Computer Vision.
 </p>
 
 ###
