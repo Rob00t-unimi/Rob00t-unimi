@@ -75,19 +75,7 @@ My interests lie at the intersection of image processing, vision and multimedia 
 <h3 align="left">Hobbies & Passions</h3>
 
 <p align="left">
-  Outside of academia, I’m passionate about cinema, DIY electronics, and exploring unconventional uses of technology in artistic or educational contexts.
+  Outside of university, I’m passionate about cinema, DIY, Self-Hosting.
 </p>
 
 ###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo" />
-</div>
