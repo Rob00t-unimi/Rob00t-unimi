@@ -22,7 +22,7 @@ My interests lie at the intersection of image processing, vision and multimedia 
 </p>
 
 <p align="left">
-  During my bachelor's thesis, I contributed to <a href="https://github.com/Rob00t-unimi/SonicWalk" target="_blank">SonicWalk</a>, a rehabilitation and music therapy research project. I developed an experimental medical software tool that analyzes and sonifies lower-limb inertial data in real time, providing innovative auditory feedback for both patients and therapists.
+  During my bachelor's thesis, I contributed to <a href="https://github.com/Rob00t-unimi/SonicWalk" target="_blank">SonicWalk</a>, a rehabilitation and music therapy research project. I developed an experimental medical software tool that analyzes and sonifies lower-limb inertial data in real time, providing auditory feedback for both patients and therapists.
 
 </p>
 
