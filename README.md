@@ -1,4 +1,7 @@
-<h1 align="center">Roberto Tallarini<h2 align="center"> Master's Degree Student in Computer Science </h2><h4 align="center"> University of Milan </h4></h1><br>
+<h1 align="center">Roberto Tallarini</h1>
+<h3 align="center"> Master's Degree Student in Computer Science </h3>
+<h4 align="center"> University of Milan </h4>
+<br>
 
 ###
 
