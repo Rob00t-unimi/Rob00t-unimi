@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <h2 align="center">Hi, I'm Roberto Tallarini — MSc Computer Science student at the University of Milan</h2>
 
 ###
@@ -17,6 +15,7 @@
 </div>
 
 <div align="center">
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="roberto-tallarini" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/roberto-tallarini?trk=profile-badge">Roberto Tallarini</a></div>           
 </div>
 
