@@ -15,8 +15,9 @@
 </div>
 
 <div align="center">
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="roberto-tallarini" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/roberto-tallarini?trk=profile-badge">Roberto Tallarini</a></div>           
+  <a href="https://www.linkedin.com/in/roberto-tallarini" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>         
 </div>
 
 ###
