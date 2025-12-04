@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <h2 align="center">Hi, I'm Roberto Tallarini — MSc Computer Science student at the University of Milan</h2>
 
 ###
