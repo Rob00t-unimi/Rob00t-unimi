@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Computer Science Master’s Student with a B.Sc. in CS for New Media Communications and a strong multimedia background, born from the combination of my passions for computer science and cinema.<br>My main interests include R&D, Image Processing & Understanding, Computer Vision, Natural Interaction/HCI, NLP and AI/DL. Concurrently, I am developing skills in Python Advanced Programming and Software Engineering.<br><br>During my bachelor’s thesis, I contributed to SonicWalk, a rehabilitation and music therapy research project. I developed an experimental medical software tool that analyzes and sonifies lower-limb inertial data in real time, providing auditory feedback for both patients and therapists.</p>
+<p align="left">Computer Science Master’s Student with a B.Sc. in CS for New Media Communications and a strong multimedia background, born from the combination of my passions for computer science and cinema.<br>My main interests include R&D, Image Processing & Understanding, Computer Vision, Natural Interaction/HCI, NLP and AI/DL. Concurrently, I am developing skills in Python Advanced Programming and Software Engineering.<br><br>During my bachelor’s thesis, I contributed to SonicWalk, a rehabilitation and music therapy research project. I developed an experimental medical software that analyzes and sonifies lower-limb inertial data in real time, providing auditory feedback for both patients and therapists.</p>
 
 ###
 
